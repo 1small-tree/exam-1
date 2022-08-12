@@ -6,7 +6,7 @@ int main(){
 
   int array[10][10];
 
-  cout<<arr<<endl;
+  cout<<array<<endl;
 
   return 0;
 
